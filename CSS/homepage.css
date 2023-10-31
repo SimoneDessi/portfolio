@@ -117,6 +117,10 @@
   }
 }
 
+.condiviso {
+  text-decoration: underline;
+}
+
 
 .html {
   border-top: solid 8px rgb(252, 153, 33);
@@ -132,6 +136,12 @@
 
 .react {
   border-top: solid 8px rgb(239, 255, 66);
+}
+.native {
+  border-top: solid 8px rgb(66, 255, 82)
+}
+.express {
+  border-top: solid 8px rgb(229, 44, 44)
 }
 
 .about-section {

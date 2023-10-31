@@ -35,8 +35,9 @@
 }
 
 .headshot {
-  width: 335px;
-  border-radius: 50%;
+  width: 350px;
+  
+  border-radius:175px;
   padding: 40px;
   margin-left: 10vw;
 }

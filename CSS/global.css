@@ -5,12 +5,12 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(41, 43, 53);
+  background-color: rgb(8, 4, 112);
   font-family: Lato, Times, serif;
 }
 
 nav {
-  background-color: rgb(55, 72, 95);
+  background-color: rgb(14, 1, 79);
 }
 
 nav .tech-container img {
@@ -41,15 +41,22 @@ nav .menu-container,
 }
 
 nav .nav-link {
-  color: rgb(216, 218, 221);
+  color: rgb(15, 243, 255);
   text-decoration: none;
   padding: 8px 12px;
   border-radius: 6px;
+ 
 }
 
 nav .nav-link:hover {
-  background-color: rgb(57, 67, 83);
+  background-color: rgb(51, 123, 239);
 }
+nav .nav-link:active {
+  background-color: rgb(133, 175, 244);
+  border: 1px solid rgb(15, 243, 255);
+  
+}
+
 
 nav .hamburger {
   display: none;
@@ -96,6 +103,11 @@ section {
 section a {
   text-decoration: none;
   color: rgb(216, 216, 216);
+
+}
+
+.northcoders-link {
+text-decoration: underline;
 }
 
 section h3 {
@@ -113,7 +125,7 @@ p {
 }
 
 footer {
-  background-color: rgb(3, 114, 144);
+  background-color: rgb(14, 1, 79);
   display: flex;
   justify-content: flex-end;
   padding: 50px;

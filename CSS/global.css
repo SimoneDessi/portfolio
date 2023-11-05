@@ -42,6 +42,7 @@ nav .menu-container,
 
 nav .nav-link {
   color: rgb(15, 243, 255);
+
   text-decoration: none;
   padding: 8px 12px;
   border-radius: 6px;
@@ -133,5 +134,5 @@ footer {
 
 footer a {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: rgb(15, 243, 255);
 }
